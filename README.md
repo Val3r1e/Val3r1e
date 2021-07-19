@@ -6,7 +6,7 @@ I love coding, baking, swimming, climbing and ... actually a lot more. Currently
 
 ### Here you can find some of my projects:
 
-- The 2D pixel art game [Washed Out](https://washedout.itch.io/washed-out)
+- The 2D pixel art game [WashedOut](https://github.com/Val3r1e/WashedOut) [(Available on itch.io)](https://washedout.itch.io/washed-out) 
 - My bachelor thesis [Modelling and Evaluating Bias in Search Engines](https://webis.de/for-students/completed-theses.html#lemuth_2021)
 - [A visualization of the spells used in Harry Potter](https://github.com/Val3r1e/VisuProject_HarryPotterSpells)
 - [A visualization of Goethes letters](https://github.com/Val3r1e/GreatMinds)
