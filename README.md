@@ -1,13 +1,13 @@
 ### Hi there 🍓 
 
-I'm Valerie, a Computer Scientist from Germany, living in Switzerland.
-I recently completed my B.Sc. in Computer Science and Media, now I'm working as a junior developer in Zürich. 
+I'm Valerie, a Computer Scientist from Germany, living in Switzerland.  
+I recently completed my B.Sc. in Computer Science and Media, now I'm working as a junior developer in Zürich.   
 I love coding, baking, swimming, climbing and ... actually a lot more. Currently just enjoying living in Switzerland.
 
 # Here you can find some of my projects:
 
 - The 2D pixel art game [Washed Out](https://washedout.itch.io/washed-out)
-- My bachelor thesis Detecting Bias in Search Engines
+- My bachelor thesis [Modelling and Evaluating Bias in Search Engines](https://webis.de/for-students/completed-theses.html#lemuth_2021)
 - A visualization of the spells used in Harry Potter
 - A visualization of Goethes letters
 
