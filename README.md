@@ -6,7 +6,7 @@ I love coding, baking, swimming, climbing and ... actually a lot more. Currently
 
 # Here you can find some of my projects:
 
-- The 2D pixel art game Washed Out
+- The 2D pixel art game [Washed Out](https://washedout.itch.io/washed-out)
 - My bachelor thesis Detecting Bias in Search Engines
 - A visualization of the spells used in Harry Potter
 - A visualization of Goethes letters
