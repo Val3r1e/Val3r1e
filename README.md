@@ -6,10 +6,10 @@ I love coding, baking, swimming, climbing and ... actually a lot more. Currently
 
 ### Here you can find some of my projects:
 
-- The 2D pixel art game [WashedOut](https://github.com/Val3r1e/WashedOut) [(Available on itch.io)](https://washedout.itch.io/washed-out) 
+- The 2D pixel art game [WashedOut](https://washedout.itch.io/washed-out) [(Code)](https://github.com/Val3r1e/WashedOut)
 - My bachelor thesis [Modelling and Evaluating Bias in Search Engines](https://webis.de/for-students/completed-theses.html#lemuth_2021)
-- [A visualization of the spells used in Harry Potter](https://github.com/Val3r1e/VisuProject_HarryPotterSpells)
-- [A visualization of Goethes letters](https://github.com/Val3r1e/GreatMinds)
+- [A visualization of the spells used in Harry Potter](https://graunarmin.github.io/VisuProject_HarryPotterSpells/) [(Code)](https://github.com/Val3r1e/VisuProject_HarryPotterSpells)
+- [A visualization of Goethes letters](https://graunarmin.github.io/GoetheLetters/) [(Code)](https://github.com/Val3r1e/GreatMinds)
 
 <!--
 **Val3r1e/Val3r1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
