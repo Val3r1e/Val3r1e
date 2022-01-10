@@ -11,6 +11,10 @@ I love coding, baking, swimming, climbing and ... actually a lot more. Currently
 - [A visualization of the spells used in Harry Potter](https://graunarmin.github.io/VisuProject_HarryPotterSpells/) [(Code)](https://github.com/Val3r1e/VisuProject_HarryPotterSpells)
 - [A visualization of Goethes letters](https://graunarmin.github.io/GoetheLetters/) [(Code)](https://github.com/Val3r1e/GreatMinds)
 
+### If you're ever in the mood for something sweet and near Herrliberg, Zurich:
+
+- [Strawbakery 🍓 ](https://strawbakery.ch) 
+
 <!--
 **Val3r1e/Val3r1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
